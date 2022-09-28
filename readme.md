@@ -14,5 +14,6 @@ Link para visualização: https://monicaquintal.github.io/EstilizandoFormularios
 
 ### Anotações Aula 02
 
+- novo arquivo (index); o prof nomeou como formularios2.html, só modifiquei o nome;<br>
 - para estilizar uma imagem dentro de uma id, por exemplo, utilizar "# container img {"; é possível ainda atribuir uma classe a essa img;<br>
 - margin-top negativo, com metade da altura, centraliza a imagem acima do container; <br>
