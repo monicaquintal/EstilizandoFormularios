@@ -85,6 +85,7 @@ input.email {
 
 input.senha {
   background-image: url(../imagens/icone-cadeado.png);
+  margin-bottom: 15px;
 }
 
 /*input.submit {
@@ -110,7 +111,7 @@ a {
   width: 90%;
   background-repeat: no-repeat;
   background-position: 10px;
-  text-decoration: none;
+  text-decoration: none; 
 
   background: -webkit-linear-gradient(to bottom, #faa600, #f68a00);
   background: -moz-linear-gradient(to bottom, #faa600, #f68a00);
